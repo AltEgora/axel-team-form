@@ -1,0 +1,31 @@
+{
+  "categories": [
+    { "id": "kofty",       "title": "Кофты",              "icon": "assets/img/icon-hoodie.png" },
+    { "id": "kostyumy",    "title": "Спортивные костюмы", "icon": "assets/img/icon-tracksuit.png" },
+    { "id": "zhilety",     "title": "Жилеты",             "icon": "assets/img/icon-vest.png" },
+    { "id": "ofp",         "title": "Одежда для ОФП",     "icon": "assets/img/icon-ofp.png" },
+    { "id": "aksessuary",  "title": "Аксессуары",         "icon": "assets/img/icon-accessories.png" }
+  ],
+  "works": [
+    { "id": 1,  "category": "kofty",      "photo": "", "club": "", "details": "" },
+    { "id": 2,  "category": "kofty",      "photo": "", "club": "", "details": "" },
+    { "id": 3,  "category": "kofty",      "photo": "", "club": "", "details": "" },
+    { "id": 4,  "category": "kofty",      "photo": "", "club": "", "details": "" },
+    { "id": 5,  "category": "kostyumy",   "photo": "", "club": "", "details": "" },
+    { "id": 6,  "category": "kostyumy",   "photo": "", "club": "", "details": "" },
+    { "id": 7,  "category": "kostyumy",   "photo": "", "club": "", "details": "" },
+    { "id": 8,  "category": "kostyumy",   "photo": "", "club": "", "details": "" },
+    { "id": 9,  "category": "zhilety",    "photo": "", "club": "", "details": "" },
+    { "id": 10, "category": "zhilety",    "photo": "", "club": "", "details": "" },
+    { "id": 11, "category": "zhilety",    "photo": "", "club": "", "details": "" },
+    { "id": 12, "category": "zhilety",    "photo": "", "club": "", "details": "" },
+    { "id": 13, "category": "ofp",        "photo": "", "club": "", "details": "" },
+    { "id": 14, "category": "ofp",        "photo": "", "club": "", "details": "" },
+    { "id": 15, "category": "ofp",        "photo": "", "club": "", "details": "" },
+    { "id": 16, "category": "ofp",        "photo": "", "club": "", "details": "" },
+    { "id": 17, "category": "aksessuary", "photo": "", "club": "", "details": "" },
+    { "id": 18, "category": "aksessuary", "photo": "", "club": "", "details": "" },
+    { "id": 19, "category": "aksessuary", "photo": "", "club": "", "details": "" },
+    { "id": 20, "category": "aksessuary", "photo": "", "club": "", "details": "" }
+  ]
+}

@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+
+# секреты и данные — только локально и на сервере
+server/.env
+*.log
+.deploy.env
+CLAUDE.local.md
+
+# контакты менеджера: в репозитории шаблон public/config.example.js
+public/config.js
+
+# фото работ (на них могут быть дети и чужие изделия) — только локально и на сервере
+public/assets/works/*
+!public/assets/works/.gitkeep
